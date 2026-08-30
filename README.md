@@ -46,7 +46,7 @@ My journey is driven by a passion for mobile development, problem-solving, and b
 
 -   🔭 I’m currently working on improving my skills by building real-world mobile applications.
     
-🌱 I’m currently learning more about **Design Patterns, State Management, Clean Architecture, Firebase, REST APIs, and building scalable Mobile Applications**.
+-   🌱 I’m currently learning more about **Design Patterns, State Management, Clean Architecture, Firebase, REST APIs, and building scalable Mobile Applications**.
 
 ---
 
